@@ -1,0 +1,14 @@
+.card-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.image {
+  max-height: 30rem;
+  width: 35rem;
+}
+
+#p1Display {
+  position: relative;
+  margin-left: 15rem;
+}
